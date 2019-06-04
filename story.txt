@@ -6,3 +6,5 @@ Then went to sleep.
 It woke up
 It was hungry
 So it got food.
+Then it was full.
+So it took a nap.
