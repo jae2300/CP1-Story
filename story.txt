@@ -3,4 +3,6 @@ The dog wanted some water.
 It walked backed to the house.
 It got some water.
 Then went to sleep.
-
+It woke up
+It was hungry
+So it got food.
