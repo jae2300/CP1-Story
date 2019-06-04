@@ -1,4 +1,6 @@
 The dog got walked.
-The dog wanted some water
+The dog wanted some water.
+It walked backed to the house.
 It got some water.
 Then went to sleep.
+
